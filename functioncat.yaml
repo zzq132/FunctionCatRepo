@@ -1,6 +1,6 @@
 opensystem: v1.0.0
 info:
-  name: astroship 
+  name: admin one vue 
 envs:
   prod:
     branch: master
